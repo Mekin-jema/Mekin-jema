@@ -25,10 +25,6 @@
 ## 🎓 About me
 Full Stack Developer | 🚀 Expert in Frontend and Backend Development | 💡 Turning Ideas into Reality
 
-Overview:
-👋 Hello there! I'm a highly skilled Full Stack Developer passionate about transforming concepts into robust digital solutions. With expertise in both frontend and backend development, I bring a holistic skill set to your projects.
-
-
 🔑 Key Skills:
 
 - 🌐 Frontend: HTML, CSS, JS (React, Angular, Vue)
