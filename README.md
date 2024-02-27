@@ -83,7 +83,6 @@ Why Choose Me:
 - [Google Cloud 🏆 ](Comming_soon!) <br>
 <!-- ## Certification 🎓 -->
 
-- [HashiCorp Certified: Terraform Associate (002)](--link -- ) <br> <br> -->
 
 ## 📈 GitHub Stats
 
