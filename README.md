@@ -28,15 +28,27 @@ Full Stack Developer | 🚀 Expert in Frontend and Backend Development | 💡 Tu
 Overview:
 👋 Hello there! I'm a highly skilled Full Stack Developer passionate about transforming concepts into robust digital solutions. With expertise in both frontend and backend development, I bring a holistic skill set to your projects.
 
-Key Skills:
-- 🌐 Frontend: HTML, CSS, JavaScript (React, Angular, Vue)
+
+🔑 Key Skills:
+
+- 🌐 Frontend: HTML, CSS, JS (React, Angular, Vue)
 - 💻 Backend: Node.js, Express, Django, Flask
 - 🗃️ Database: MongoDB, MySQL, PostgreSQL
-- 🚀 RESTful API Design and Implementation
-- 🎨 Responsive Web Design
-- 🔄 Version Control: Git/GitHub
-- 🧪 Testing: Jest, Mocha
-- ☁️ Deployment and Hosting: Heroku, AWS, Netlify
+- 🚀 RESTful API Design
+- 🎨 Responsive Design
+- 🔄 Version Control:it/GitHub
+- 🧪 Testing:Jest, Mocha
+- ☁️ Deployment:Heroku, AWS, Netlify 
+
+• ML Journey
+   - 🤖 Exploration
+   - 📊 Regression
+   - 📈 Classification
+   - 🌀 Unsupervised ML
+   - 🧠 Deep & RL
+   - 🏁 Capstone
+
+🌟 Elevating user experiences and turning data into insights! 🌟
 
 Experience:
 🏆 Successfully completed 10 projects globally, delivering scalable solutions. From responsive websites to complex applications, my work reflects proficiency in both frontend and backend technologies.
