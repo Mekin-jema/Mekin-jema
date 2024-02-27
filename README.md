@@ -46,20 +46,7 @@ Why Choose Me:
 - 🧠 Strong problem-solving skills with meticulous attention to detail.
 - 🗣️ Excellent communication skills ensuring smooth collaboration.
 - 🌐 Dedication to staying updated with the latest industry trends.
-
-Education:
-- 🎓 [Your Degree], [Your University], [Year of Graduation]
-
-Certifications:
-- 🏅 [Relevant Certifications, if any]
-
-Portfolio:
-🔗 [Link to your portfolio showcasing examples of your frontend and backend work]
-
-Availability:
-📆 Currently available for new projects. Excited to discuss how I can contribute to your success!
-
-Let's Connect:
+  
 📬 Eager to chat
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvikramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamvikramkumar" /> </p>
 
@@ -108,5 +95,4 @@ Let's Connect:
 [![](https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/3-stats.svg)
 ![](https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/4-productive-time.svg)
