@@ -44,17 +44,7 @@ Full Stack Developer | 🚀 Expert in Frontend and Backend Development | 💡 Tu
    - 🧠 Deep & RL
    - 🏁 Capstone
 
-🌟 Elevating user experiences and turning data into insights! 🌟
-
-Experience:
-🏆 Successfully completed 10 projects globally, delivering scalable solutions. From responsive websites to complex applications, my work reflects proficiency in both frontend and backend technologies.
-
-Why Choose Me:
-- 🎯 Proven track record of on-time, on-budget project delivery.
-- 🧠 Strong problem-solving skills with meticulous attention to detail.
-- 🗣️ Excellent communication skills ensuring smooth collaboration.
-- 🌐 Dedication to staying updated with the latest industry trends.
-  
+🌟 Elevating user experiences and turning data into insights! 🌟  
 📬 Eager to chat
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvikramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamvikramkumar" /> </p>
 
