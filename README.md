@@ -16,7 +16,7 @@
 <!-- <a href="">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a> -->
-<a href="https://www.buymeacoffee.com/iamvikramkumar5">
+<a href="https://www.buymeacoffee.com/mekinjemald">
 	<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 <br>
