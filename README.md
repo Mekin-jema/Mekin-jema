@@ -28,7 +28,7 @@ Full Stack Developer | 🚀 Expert in Frontend and Backend Development | 💡 Tu
 🔑 Key Skills:
 
 - 🌐 Frontend: HTML, CSS, JS (React, Angular, Vue)
-- 💻 Backend: Node.js, Express, Django, Flask
+- 💻 Backend: Node.js, Express
 - 🗃️ Database: MongoDB, MySQL, PostgreSQL
 - 🚀 RESTful API Design
 - 🎨 Responsive Design
