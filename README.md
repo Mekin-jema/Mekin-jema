@@ -87,12 +87,4 @@
 ---
 
 <!-- Animation CSS (inline for GitHub compatibility) -->
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-img {
-  animation: float 4s ease-in-out infinite;
-}
-</style>
+
