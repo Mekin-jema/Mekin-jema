@@ -1,4 +1,4 @@
-# Hey There, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey There, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" style="margin-bottom: -5px;">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mekin-jemal-7933b42a3/">
@@ -18,9 +18,10 @@
   </a>
 </p>
 
-<br>
+---
 
 ## 🎓 About Me
+
 **Full Stack Developer** | 🚀 **Expert in Frontend and Backend Development** | 💡 **Turning Ideas into Reality**
 
 > 💬 Elevating user experiences and transforming data into insights!
@@ -36,14 +37,19 @@
 - 🧪 **Testing**: Jest, Mocha
 - ☁️ **Deployment**: Heroku, AWS, Netlify
 
+---
+
+## 🌟 Journey into ML
+
 🌱 **ML Journey**:
-- 🤖 Machine Learning Exploration
-- 📊 Regression, 📈 Classification, 🌀 Unsupervised ML
+- 🤖 Exploring Machine Learning Algorithms
+- 📊 Regression, 📈 Classification, 🌀 Unsupervised Learning
 - 🧠 Deep & Reinforcement Learning, 🏁 Capstone Project
 
-<br>
+---
 
 ## 🔥 Technologies & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -61,16 +67,13 @@
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
-
-<br>
+---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/Mekin-jema/Mekin-jemal/master/profile-summary-card-output/dracula/4-productive-time.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mekin-jema&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula" />
 </p>
 
 ---
@@ -80,14 +83,17 @@
 - **Smart Dustbin Project**: Optimized waste collection system with alerts to prevent overflow.
 - **Water Meter IoT System**: Data-driven water usage insights with a mobile app for monitoring and payments.
 
+---
+
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekin-jemal-7933b42a3/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekinjemal999@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mekinjemal_seth)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mekin.jemal/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mekinjemald)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mekin-jemal-7933b42a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mekinjemal999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/mekinjemal_seth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mekin.jemal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/mekinjemald"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
 
 ---
 
-<!-- Animation CSS (inline for GitHub compatibility) -->
-
+<!-- CSS animations for GIF and badge style -->
