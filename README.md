@@ -76,14 +76,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula" />
 </p>
 
----
+##💼 Work in Progress
 
-## 💼 Work in Progress
-- **Automatic Sewage Monitoring System**: IoT-based smart drainage with real-time gas level and overflow prediction using ML.
-- **Smart Dustbin Project**: Optimized waste collection system with alerts to prevent overflow.
-- **Water Meter IoT System**: Data-driven water usage insights with a mobile app for monitoring and payments.
+`E-commerce Website`: Developing an online store platform using modern web technologies, focusing on user experience, secure transactions, and scalable architecture.
 
----
+`Blog Platform`: Building a blog application with features for content management, user interaction, and responsive design.
+
+`Learning Management System`: Creating an LMS for managing courses, assignments, and user roles, designed to facilitate online learning experiences.
+
+`IoT-Based Sewage/Drainage Management System`: Developing a smart monitoring system using IoT to track sewage levels and predict gas concentrations, with real-time alerts to prevent overflow. This system includes both web and mobile-based applications.
+
+
+
+
+
+
+
+
 
 ## 📬 Let's Connect!
 <p align="center">
