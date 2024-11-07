@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula" />
 </p>
 
-##💼 Work in Progress
+## 💼 Work in Progress
 
 `E-commerce Website`: Developing an online store platform using modern web technologies, focusing on user experience, secure transactions, and scalable architecture.
 
