@@ -1,4 +1,4 @@
-# Hey There, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" style="margin-bottom: -5px;">
+# Hey There, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" style="margin-bottom: -5px; animation: wave 2s infinite;">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mekin-jemal-7933b42a3/">
@@ -9,7 +9,6 @@
   </a>
   <a href="https://twitter.com/mekinjemal_seth">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    
   </a>
   <a href="https://www.instagram.com/mekin.jemal/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -40,33 +39,12 @@
 
 ---
 
-## 🌟 Journey into ML
+## 🌟 Dynamic Stats
+Here are my latest GitHub stats powered by [GitHub Actions](https://github.com/features/actions).
 
-🌱 **ML Journey**:
-- 🤖 Exploring Machine Learning Algorithms
-- 📊 Regression, 📈 Classification, 🌀 Unsupervised Learning
-- 🧠 Deep & Reinforcement Learning, 🏁 Capstone Project
-
----
-
-## 🔥 Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
+- 📊 **Commits This Year**: ![Commits](https://img.shields.io/endpoint?url=https://your-action-url/commits)
+- 📚 **Repositories**: ![Repositories](https://img.shields.io/endpoint?url=https://your-action-url/repositories)
+- 🌟 **Stars Received**: ![Stars](https://img.shields.io/endpoint?url=https://your-action-url/stars)
 
 ---
 
@@ -76,24 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mekin-jema&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula" />
 </p>
-
-## 💼 Work in Progress
-
-`E-commerce Website`: Developing an online store platform using modern web technologies, focusing on user experience, secure transactions, and scalable architecture.
-
-`Blog Platform`: Building a blog application with features for content management, user interaction, and responsive design.
-
-`Learning Management System`: Creating an LMS for managing courses, assignments, and user roles, designed to facilitate online learning experiences.
-
-`IoT-Based Sewage/Drainage Management System`: Developing a smart monitoring system using IoT to track sewage levels and predict gas concentrations, with real-time alerts to prevent overflow. This system includes both web and mobile-based applications.
-
-
-
-
-
-
-
-
 
 ## 📬 Let's Connect!
 <p align="center">
@@ -106,4 +66,15 @@
 
 ---
 
-<!-- CSS animations for GIF and badge style -->
+## 🚀 CSS Animation
+
+```css
+@keyframes wave {
+  0% { transform: rotate(0.0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10.0deg); }
+  60% { transform: rotate(0.0deg); }
+}
