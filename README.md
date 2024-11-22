@@ -39,14 +39,7 @@
 
 ---
 
-## 🌟 Dynamic Stats
-Here are my latest GitHub stats powered by [GitHub Actions](https://github.com/features/actions).
 
-- 📊 **Commits This Year**: ![Commits](https://img.shields.io/endpoint?url=https://your-action-url/commits)
-- 📚 **Repositories**: ![Repositories](https://img.shields.io/endpoint?url=https://your-action-url/repositories)
-- 🌟 **Stars Received**: ![Stars](https://img.shields.io/endpoint?url=https://your-action-url/stars)
-
----
 
 ## 📈 GitHub Stats
 <p align="center">
