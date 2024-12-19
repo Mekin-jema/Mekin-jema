@@ -28,14 +28,14 @@
 
 🔑 **Key Skills**:
 
-- 🌐 **Frontend**: HTML, CSS, JavaScript (React, Angular, Vue)
+- 🌐 **Frontend**: HTML, CSS, JavaScript (React, Angular, Nextjs)
 - 💻 **Backend**: Node.js, Express.js
 - 🗃️ **Databases**: MongoDB, MySQL, PostgreSQL
 - 🚀 **RESTful API Design**
 - 🎨 **Responsive Design**
 - 🔄 **Version Control**: Git/GitHub
 - 🧪 **Testing**: Jest, Mocha
-- ☁️ **Deployment**: Heroku, AWS, Netlify
+- ☁️ **Deployment**: Heroku, AWS, Netlify,Vercel,Render
 
 ---
 
