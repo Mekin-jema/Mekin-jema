@@ -22,24 +22,39 @@
 
 ## 🎓 About Me
 
-**Full Stack Developer** | 🚀 **Expert in Frontend and Backend Development** | 💡 **Turning Ideas into Reality**
+**Full Stack Developer**
 
 > 💬 Elevating user experiences and transforming data into insights!
 
 🔑 **Key Skills**:
 
-- 🌐 **Frontend**: HTML, CSS, JavaScript (React, Angular, Nextjs)
-- 💻 **Backend**: Node.js, Express.js
-- 🗃️ **Databases**: MongoDB, MySQL, PostgreSQL
-- 🚀 **RESTful API Design**
-- 🎨 **Responsive Design**
-- 🔄 **Version Control**: Git/GitHub
-- 🧪 **Testing**: Jest, Mocha
-- ☁️ **Deployment**: Heroku, AWS, Netlify,Vercel,Render
+### 🌐 Frontend Development
+- **Languages & Frameworks:** HTML, CSS, JavaScript (ES6+), React.js, React Native, Next.js, Angular
+- **Styling:** Tailwind CSS, Styled Components, Emotion
+
+### 🔄 State Management
+- Redux, Recoil, Zustand, React Context API
+
+### ⚙️ Backend Development
+- **Runtime & Frameworks:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **RESTful API Design**
+
+### 🔗 Version Control & CI/CD
+- Git, GitHub
+- GitHub Actions for CI/CD automation
+
+### 🧪 Testing
+- Jest, Cypress, React Testing Library, Mocha
+
+### 🔧 Build Tools & Security
+- Webpack, Vite, Babel
+- Authentication & Security Best Practices in Frontend Development
+
+### ☁️ Deployment
+- Heroku, AWS, Netlify, Vercel, Render
 
 ---
-
-
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -58,6 +73,3 @@
 </p>
 
 ---
-
-
-
