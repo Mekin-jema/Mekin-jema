@@ -24,15 +24,16 @@
 
 **Full Stack Developer | Open Source Contributor | Tech Enthusiast**
 
-> 💬 Elevating user experiences and transforming data into insights! Passionate about building scalable solutions and contributing to open-source projects.
+> 💡 Transforming ideas into digital reality with clean code and innovative solutions. Passionate about building scalable applications and contributing to meaningful projects.
 
-🔑 **Key Skills**:
+🔑 **Core Competencies**:
 
 ### 🌐 Frontend Development
 - **Languages & Frameworks:** 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -46,6 +47,7 @@
 - **Runtime & Frameworks:** 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - **Databases:** 
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -56,18 +58,59 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name](https://github.com/your-repo)
-![GitHub Stars](https://img.shields.io/github/stars/Mekin-jema/project-name?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Mekin-jema/project-name?style=social)
+### 🗺️ Ambalay Maps Dashboard
+**Frontend Engineer Intern | Jan 2025 - Present**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MapLibre](https://img.shields.io/badge/MapLibre-000000?style=flat-square&logo=maplibre-gl&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-> A brief description of what the project does and technologies used.
+- Developed interactive map dashboard with route planning, geocoding, and real-time traffic features
+- Built geospatial APIs using Node.js/Express and Python for high-performance data processing
+- Implemented localization (including Amharic support) and offline map capabilities
+- Managed PostgreSQL/MongoDB databases for geospatial and user data
 
-🔧 **Tech Stack**: React, Node.js, MongoDB
+### 📚 Industrial LMS Platform
+**MERN Stack with Next.js 13 & TypeScript**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- Full-stack learning management system with JWT authentication and email activation
+- Implemented course management, video/content access, and review systems
+- Real-time notifications using Socket.io with Redis caching for performance
+- Admin dashboard with analytics, user management, and order tracking
+- Social login (Google/Facebook) and secure payment integration
+
+### 🏠 Real Estate Platform
+**React, Express, Firebase**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+- Property listing platform with JWT authentication and Google Login
+- Image uploads via Firebase Storage
+- Redux Toolkit for efficient state management
+- Advanced search functionality with filters
+- Responsive UI with Tailwind CSS
+
+### 🛠️ IoT Sewage Monitoring System
+**Hardware/Software Integration**  
+![IoT](https://img.shields.io/badge/IoT-999999?style=flat-square&logo=iot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+- Integrated pH/gas/ultrasonic sensors for sewer condition monitoring
+- Real-time alerts for overflows and dangerous gas levels
+- Web dashboard and mobile app for data visualization
+- ESP8266 for wireless communication
+- Cloud storage with MongoDB Atlas
 
 ---
 
@@ -83,23 +126,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mekin-jema&theme=dracula" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mekin-jema&theme=dracula&column=7" alt="Mekin's trophies" />
-</p>
-
----
-
-## 📌 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My Portfolio with Next.js](https://your-blog-url.com)
-- [State Management in React: A Comprehensive Guide](https://your-blog-url.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎧 Currently Listening
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
 ---
 
 ## 📬 Let's Connect!
@@ -107,7 +133,6 @@
   <a href="https://www.linkedin.com/in/mekin-jemal-7933b42a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mekinjemal999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/mekinjemal_seth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mekin.jemal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.buymeacoffee.com/mekinjemald"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
