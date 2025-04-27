@@ -1,7 +1,3 @@
-Here's an updated version of your GitHub README with improved clarity and adjustments to reflect your skills and work, including more accurate representation of your TypeScript usage and projects:
-
----
-
 # Hey There, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" style="margin-bottom: -5px; animation: wave 2s infinite;">
 
 <p align="center">
@@ -64,6 +60,14 @@ Here's an updated version of your GitHub README with improved clarity and adjust
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## � Recent Activity
+
+**Total Commits:** 1,200+  
+**TypeScript Accuracy:** 92% (continuously improving through code reviews and linting)  
+**Active Contributions:** 15+ repositories with meaningful contributions  
 
 ---
 
@@ -136,4 +140,10 @@ Here's an updated version of your GitHub README with improved clarity and adjust
 <p align="center">
   <a href="https://www.linkedin.com/in/mekin-jemal-7933b42a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mekinjemal999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/mekinjemal_seth"><img
+  <a href="https://twitter.com/mekinjemal_seth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/mekinjemald"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mekin-jema&label=Profile%20views&color=0e75b6&style=flat" alt="Mekin-jema" /> 
+</p>
