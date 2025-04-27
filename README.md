@@ -1,4 +1,8 @@
-# Hey There, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" style="margin-bottom: -5px; animation: wave 2s infinite;">
+Here's a rewritten version of your GitHub README that maintains your style but makes the text clearer and more concise:
+
+---
+
+# Hey there, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" style="margin-bottom: -5px; animation: wave 2s infinite;">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mekin-jemal-7933b42a3/">
@@ -24,12 +28,12 @@
 
 **Full Stack Developer | Open Source Contributor | Tech Enthusiast**
 
-> 💡 Transforming ideas into digital reality with clean code and innovative solutions. Passionate about building scalable applications and contributing to meaningful projects.
+> 💡 Passionate about transforming ideas into reality with clean code and innovative solutions. I enjoy building scalable applications and contributing to meaningful projects.
 
-🔑 **Core Competencies**:
+🔑 **Core Skills**:
 
 ### 🌐 Frontend Development
-- **Languages & Frameworks:** 
+- **Languages & Frameworks:**
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -44,11 +48,11 @@
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white)
 
 ### ⚙️ Backend Development
-- **Runtime & Frameworks:** 
+- **Runtime & Frameworks:**
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Databases:** 
+- **Databases:**
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -67,10 +71,6 @@
 
 ### 🗺️ Ambalay Maps Dashboard
 **Frontend Engineer Intern | Jan 2025 - Present**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MapLibre](https://img.shields.io/badge/MapLibre-000000?style=flat-square&logo=maplibre-gl&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
 - Developed interactive map dashboard with route planning, geocoding, and real-time traffic features
 - Built geospatial APIs using Node.js/Express and Python for high-performance data processing
 - Implemented localization (including Amharic support) and offline map capabilities
@@ -78,10 +78,6 @@
 
 ### 📚 Industrial LMS Platform
 **MERN Stack with Next.js 13 & TypeScript**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
 - Full-stack learning management system with JWT authentication and email activation
 - Implemented course management, video/content access, and review systems
 - Real-time notifications using Socket.io with Redis caching for performance
@@ -90,10 +86,6 @@
 
 ### 🏠 Real Estate Platform
 **React, Express, Firebase**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
 - Property listing platform with JWT authentication and Google Login
 - Image uploads via Firebase Storage
 - Redux Toolkit for efficient state management
@@ -102,10 +94,6 @@
 
 ### 🛠️ IoT Sewage Monitoring System
 **Hardware/Software Integration**  
-![IoT](https://img.shields.io/badge/IoT-999999?style=flat-square&logo=iot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
 - Integrated pH/gas/ultrasonic sensors for sewer condition monitoring
 - Real-time alerts for overflows and dangerous gas levels
 - Web dashboard and mobile app for data visualization
@@ -139,3 +127,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mekin-jema&label=Profile%20views&color=0e75b6&style=flat" alt="Mekin-jema" /> 
 </p>
+
+---
+
+Let me know if you would like to change anything else!
