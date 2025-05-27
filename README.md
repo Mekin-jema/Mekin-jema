@@ -63,13 +63,7 @@
 
 ---
 
-## � Recent Activity
 
-**Total Commits:** 1,200+  
-**TypeScript Accuracy:** 92% (continuously improving through code reviews and linting)  
-**Active Contributions:** 15+ repositories with meaningful contributions  
-
----
 
 ## 🚀 Featured Projects
 
