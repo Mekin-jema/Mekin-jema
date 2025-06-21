@@ -22,7 +22,7 @@
 
 ## 🎓 About Me
 
-**Full Stack Developer | Open Source Contributor | Tech Enthusiast**
+**Full Stack Developer **
 
 > 💡 Transforming ideas into digital reality with clean code and innovative solutions. Passionate about building scalable applications and contributing to meaningful projects.
 
