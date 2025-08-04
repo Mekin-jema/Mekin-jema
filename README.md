@@ -1,13 +1,8 @@
-Here is the cleaned-up version with the **Projects section removed**:
-
 
 # 👋 Hey There, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/)
 
 💻 **Full Stack Developer**  
 🚀 Passionate about building scalable web apps, IoT solutions, and impactful projects.
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekin-jemal-7933b42a3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekinjemal999@gmail.com)
