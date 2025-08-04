@@ -1,8 +1,10 @@
-
 # 👋 Hey There, I'm [Mekin Jemal](https://www.linkedin.com/in/mekin-jemal-7933b42a3/)
 
 💻 **Full Stack Developer**  
-🚀 Passionate about building scalable web apps, IoT solutions, and impactful projects.
+🚀 Passionate about building scalable web apps, IoT solutions, GIS applications, and impactful projects.
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekin-jemal-7933b42a3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekinjemal999@gmail.com)
@@ -15,8 +17,29 @@
 ## 🛠 Tech Stack
 - **Frontend:** React, Next.js, Angular, TypeScript, TailwindCSS  
 - **Backend:** Node.js, Express, Python  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Databases & ORM:** MongoDB, PostgreSQL, MySQL, Prisma  
+- **DevOps & Tools:** Docker, Git, Vercel, AWS  
+- **Testing:** Jest, Cypress, Postman  
+- **GIS & Mapping:** MapLibre, Leaflet, Google Maps API, OpenLayers  
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mekin-jema&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mekin-jema&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mekin-jema&label=Profile%20views&color=0e75b6&style=flat" alt="Mekin-jema" /> 
+</p>
+
+---
 
 ⭐️ *Transforming ideas into digital reality with clean code & innovation.*
-```
