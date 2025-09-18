@@ -40,6 +40,18 @@
   <img src="https://komarev.com/ghpvc/?username=Mekin-jema&label=Profile%20views&color=0e75b6&style=flat" alt="Mekin-jema" /> 
 </p>
 
+---
+
+## 🚀 Projects & Highlights
+- **Real Estate App (MERN Stack):** Full CRUD, JWT auth, Google Auth, Firebase image upload, advanced search.  
+- **IoT Smart Dustbin:** Real-time fill level monitoring, shortest path for collection, mobile app integration.  
+- **Automatic Sewage Monitoring System:** ESP8266 sensors, MongoDB, real-time dashboard, ML prediction for overflow & gas levels.  
+- **GIS Mapping Projects:** Frontend integrations with MapLibre, Leaflet, Google Maps API for dynamic visualizations.
+
+---
+
+## 🌟 Visitor Badge
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Mekin-jema)
 
 ---
 
