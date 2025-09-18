@@ -27,9 +27,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mekin-jema&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula&langs_count=8" />
+  <img src="https://my-github-status-sooty.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img src="https://my-github-status-sooty.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered" />
+  <img src="https://my-github-status-sooty.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula&langs_count=8" />
 </p>
 
 <p align="center">
@@ -39,6 +39,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mekin-jema&label=Profile%20views&color=0e75b6&style=flat" alt="Mekin-jema" /> 
 </p>
+
 
 ---
 
