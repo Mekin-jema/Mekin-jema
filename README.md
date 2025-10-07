@@ -58,10 +58,6 @@
 <img src="https://img.shields.io/badge/OpenLayers-000000?logoColor=white&style=for-the-badge" />
 
 
-<h2 align="center">🚀 Developer | 💡 Innovator | 🌍 Global Thinker</h2>
-<p align="center">
-  <em>Transforming ideas into digital reality through clean code, creativity, and precision.</em>
-</p>
 
 ---
 
@@ -79,11 +75,7 @@
   <img src="https://img.shields.io/github/followers/Mekin-jema?label=Followers&logo=github&style=social" alt="GitHub Followers" />
 </p>
 
----
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=8BE9FD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IoT+Enthusiast;AI+Learner;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-</p>
 
 
