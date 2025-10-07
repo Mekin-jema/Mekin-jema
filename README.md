@@ -1,9 +1,9 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=8BE9FD&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+There,+I'm+Mekin+Jemal;%F0%9F%92%BB+I+am+a+Computer+Engineer+and+Full+Stack+Developer+r " alt="Typing SVG" />
 </p>
 
 
-<p align="center">
+<p align="left">
   <strong>🌐 Portfolio:</strong> <a href="https://mekinjemal2026.vercel.app">me</a> •
   <strong>📧 Contact:</strong> <a href="mailto:your-email@domain.com">mekinjemal999@gmail.com</a>
 </p
