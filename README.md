@@ -35,10 +35,28 @@
 
 
 
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mekin-jema&theme=dracula&no-frame=true&row=1&column=7" />
+</p>
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mekin-jema&label=Profile%20views&color=0e75b6&style=flat" alt="Mekin-jema" /> 
+  <img src="https://img.shields.io/github/followers/Mekin-jema?label=Followers&style=social" alt="Followers" />
 </p>
 
 ---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mekin-jema&theme=dracula&hide_border=true" />
+</p>
 
 ⭐️ *Transforming ideas into digital reality with clean code & innovation.*
