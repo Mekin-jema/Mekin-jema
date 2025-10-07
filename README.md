@@ -30,7 +30,6 @@
 
 <p align="center">
   <img src="https://my-github-status-sooty.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered" />
-  <img src="https://my-github-status-sooty.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula&langs_count=8" />
 </p>
 
 
