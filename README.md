@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>🌐 Portfolio:</strong> <a href="https://mekinjemal2026.vercel.app">me</a> •
-  <strong>📧 Contact:</strong> <a href="mailto:your-email@domain.com">your-mekinjemal999@gmail.com</a>
+  <strong>📧 Contact:</strong> <a href="mailto:your-email@domain.com">mekinjemal999@gmail.com</a>
 </p
 
 
@@ -62,9 +62,10 @@
 ---
 
 <p align="center">
-  <img src="https://my-github-status-sooty.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="Mekin Jemal GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mekin-jema&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://my-github-status-sooty.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="Mekin Jemal GitHub Stats" style="display:inline-block; margin-right:10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mekin-jema&theme=dracula&hide_border=true" alt="GitHub Streak" style="display:inline-block; margin-left:10px;" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mekin-jema&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
