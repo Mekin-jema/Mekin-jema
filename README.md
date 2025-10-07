@@ -33,9 +33,7 @@
   <img src="https://my-github-status-sooty.vercel.app/api/top-langs/?username=Mekin-jema&layout=compact&theme=dracula&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mekin-jema&theme=dracula" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mekin-jema&label=Profile%20views&color=0e75b6&style=flat" alt="Mekin-jema" /> 
