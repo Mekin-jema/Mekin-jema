@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  <img src="https://my-github-status-sooty.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="Mekin Jemal GitHub Stats" />
+  <!-- <img src="https://my-github-status-sooty.vercel.app/api?username=Mekin-jema&show_icons=true&theme=dracula&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="Mekin Jemal GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mekin-jema&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
