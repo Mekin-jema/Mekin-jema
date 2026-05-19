@@ -48,9 +48,3 @@ GIS        : Leaflet, OpenLayers, MapLibre
 </div>
 
 ---
-
-## Connect With Me
-
-- LinkedIn: [mekin-jemal-7933b42a3](https://www.linkedin.com/in/mekin-jemal-7933b42a3/)
-- Twitter: [@mekinjemal_seth](https://twitter.com/mekinjemal_seth)
-- Instagram: [@mekin.jemal](https://www.instagram.com/mekin.jemal)
